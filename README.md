@@ -19,11 +19,8 @@
   </div>
   <div>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
-   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=54c5f8&color=ffffff"/>
+   <img src="https://img.shields.io/badge/compose-blue?style=flat-square&logo=jetpackcompose&logoColor=54c5f8&color=ffffff"/>
   </div>
   
   #### 🛠Tools
@@ -38,7 +35,7 @@
   <br>
   <br>
   
-  Desiring **web full stack developer** 🖥️💖
+  Desiring **full stack developer** 🖥️💖
 
 Using **JavaScript** with a variety of Libraries and collaboration experiences💪
 
