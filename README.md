@@ -49,10 +49,6 @@
   <br>
   <br>
   <br>
-  
-<!--Desiring **full stack developer** 🖥️💖
-
-Using **JavaScript** with a variety of Libraries and collaboration experiences💪-->
 
 <h2>Social Info :</h2>
 
@@ -68,7 +64,7 @@ Using **JavaScript** with a variety of Libraries and collaboration experiences�
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 
 </div>
-<div>
+</br>
 #### Github Stats:
 
 <p align="center">
@@ -142,7 +138,6 @@ Using **JavaScript** with a variety of Libraries and collaboration experiences�
 
 <h3 align="left">Support:</h3>
 <br><br>
-</div>
 <!--
 **uumair327/uumair327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -157,3 +152,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   -->
+    
+<!--Desiring **full stack developer** 🖥️💖
+
+Using **JavaScript** with a variety of Libraries and collaboration experiences💪-->
