@@ -64,9 +64,8 @@
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 
 </div>
-</br>
-##Github Stats:
-
+#### Github Stats:
+</div>
 <p align="center">
 <span style="
     display: flex;
