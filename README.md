@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uumair327&label=Profile%20views&color=0e75b6&style=flat" alt="theajayrawat" /> </p>
 
 <div style="display:flex">
-  <img align="right" alt="coding_img" width="200" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+  <img align="right" alt="coding_img" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 ### I’m [@Umair-Ansari](https://github.com/uumair327)
 
@@ -21,9 +21,6 @@
     
 <div align="center"> 
 
-
-
-  
   ### 💪Skills
   #### Platforms & Language
   <div>
