@@ -68,7 +68,8 @@ Using **JavaScript** with a variety of Libraries and collaboration experiencesðŸ
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 
 </div>
-## Github Stats:
+<div>
+#### Github Stats:
 
 <p align="center">
 <span style="
@@ -141,6 +142,7 @@ Using **JavaScript** with a variety of Libraries and collaboration experiencesðŸ
 
 <h3 align="left">Support:</h3>
 <br><br>
+</div>
 <!--
 **uumair327/uumair327** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.
 
