@@ -21,7 +21,7 @@
     
 <div align="center"> 
   
-### 💪Skills
+  ### 💪Skills
   #### Platforms & Language
   <div>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
