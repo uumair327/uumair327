@@ -56,9 +56,82 @@ Using **JavaScript** with a variety of Libraries and collaboration experiences�
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uumair327@gmail.com)](mailto:uumair327@gmail.com)
 
-![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)
+<!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 
 </div>
+## Github Stats:
+
+<p align="center">
+<span style="
+    display: flex;
+    gap: 10px; 
+    align-items: center; 
+    justify-content: center;">  
+    <picture>
+    <source 
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical" width="48%" alt="github-stats"/>
+  </picture>
+    <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical" width="48%" alt="github-stats"/>
+  </picture>
+  </span>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical" width="50%" alt="github-graph" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=ffffff00&color=fdf6e3&area_color=758bA3&line=2aa198&point=6c71c4&area=true&radius=16"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=eee8d5&color=586e75&area_color=657b83&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" alt="github-graph" />
+    
+  </picture>
+</p>
+
+<div align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/uumair327/count.svg" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uumair327&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
+</p>
+
+<h3 align="left">Support:</h3>
+<br><br>
 <!--
 **uumair327/uumair327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
