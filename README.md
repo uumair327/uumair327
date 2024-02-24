@@ -50,11 +50,20 @@
   <br>
   <br>
   
-  Desiring **full stack developer** 🖥️💖
+<!--Desiring **full stack developer** 🖥️💖
 
-Using **JavaScript** with a variety of Libraries and collaboration experiences💪
+Using **JavaScript** with a variety of Libraries and collaboration experiences💪-->
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uumair327@gmail.com)](mailto:uumair327@gmail.com)
+<h2>Social Info :</h2>
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/uumair327/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:pabitrakumarbebartta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
 
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 
