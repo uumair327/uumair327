@@ -2,8 +2,9 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Umair%20Ansari&textBg=false)-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=42A5F5&background=FFD22800&center=true&vCenter=true&random=false&width=465&lines=Hello%2C+I'm+Umair+Ansari;Welcome+to+My+Profile!;I+am+an+aspiring+full-stack+dev" alt="Typing SVG" /></a>
+<br />
   </div>
-    <br />
+    
 <div align="center"> 
   
 ### 💪Skills
