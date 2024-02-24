@@ -17,7 +17,7 @@
 - 📫 How to reach me ...
   - Email: [uumair327@gmail.com](mailto:uumair327@gmail.com)
   - Linktree: [linktr.ee/uumair327](https://linktr.ee/uumair327)
-  </div>
+  
     
 <div align="center"> 
 
@@ -65,7 +65,6 @@
 
 </div>
 </br>
-#### 🛠Tools
 ##Github Stats:
 
 <p align="center">
@@ -139,6 +138,7 @@
 
 <h3 align="left">Support:</h3>
 <br><br>
+</div>
 <!--
 **uumair327/uumair327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
