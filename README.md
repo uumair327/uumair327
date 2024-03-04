@@ -11,7 +11,7 @@
 ### I’m [@Umair-Ansari](https://github.com/uumair327)
 
 - 👀 I’m interested in _Software Devlopment and It's Life Cycle_.
-- 💞️ I’m looking to collaborate on Website related feature devlopment.
+- 💞️ I’m looking to collaborate on App & Website related feature devlopment.
 <!-- - 🌱 I’m currently the Winner of `MLH` `Status Code 0`. -->
 - 📫 How to reach me ...
   - Email: [uumair327@gmail.com](mailto:uumair327@gmail.com)
