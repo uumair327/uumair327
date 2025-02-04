@@ -71,7 +71,7 @@
     justify-content: center;">  
     <picture>
     <source 
-      srcset="http://github-readme-streak-stats.herokuapp.com?user=uumair327&theme=radical"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=uumair327&theme=radical"
       media="(prefers-color-scheme: dark)"
     />
     <source
