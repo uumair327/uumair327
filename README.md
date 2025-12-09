@@ -95,8 +95,6 @@
 ---
 
 ## Visitors Count  
-> ✔ Fixed — reliable counter (previous glitch.me broken)
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uumair327&label=Visitors&color=0A66C2&style=flat-square"/>
 </div>
