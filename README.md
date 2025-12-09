@@ -1,60 +1,67 @@
-<div align="center">
+<div>
 
-<!-- Stylish Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Umair+Ansari;Full-Stack+Developer;Building+Apps+%26+Web+Experiences;Welcome+to+My+GitHub!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=42A5F5&center=true&vCenter=true&width=465&lines=Hello%2C+I'm+Umair+Ansari;Welcome+to+My+Profile!;Aspiring+Full-Stack+Developer" />
 </a>
+
+<br/>
+
+<div align="right">
+  <img alt="coding_img" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</div>
+
+### I’m [@Umair-Ansari](https://github.com/uumair327)
+
+- 👀 Interested in **Software Development & SDLC**
+- 💞️ Open to collaborating on **App & Website Feature Development**
+- 📫 Contact Me:  
+  - Email: **uumair327@gmail.com**  
+  - Linktree: **https://linktr.ee/uumair327**
 
 <br>
 
-<img align="right" width="160" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-
-# 👨‍💻 About Me
-- 🚀 Passionate about **Full-Stack Development**
-- 🔧 Interested in the **entire SDLC & scalable architectures**
-- 🤝 Open to collaboration on **App & Web development**
-- 📫 Reach Me:
-  - ✉️ Email: **uumair327@gmail.com**
-  - 🔗 Linktree: https://linktr.ee/uumair327
+<div align="center">
 
 ---
 
-# 💪 Skills
+## 💪 Skills
 
-## 🚀 Languages & Platforms
+### Platforms & Languages
 <div>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 </div>
 
-## 🖥️ Frameworks & Libraries
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=54c5f8&color=ffffff"/>
+  <img src="https://img.shields.io/badge/Compose-blue?style=flat-square&logo=jetpackcompose&logoColor=54c5f8&color=ffffff"/>
 </div>
 
-## 🛠 Tools & DevOps
+### 🛠 Tools
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebStorm-black?style=flat-square&logo=WebStorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </div>
 
 ---
 
-# 🌐 Social Links
+<br><br>
+
+## Social Info
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/uumair327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:uumair327@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -63,38 +70,44 @@
 
 ---
 
-# 📊 GitHub Stats
+## Github Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uumair327&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical" />
+
+  <picture>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uumair327&theme=radical" width="48%" />
+  </picture>
+
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=radical" width="48%" />
+  </picture>
+
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uumair327&layout=compact&theme=radical" width="50%" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=1a1b27&color=9ae6fa&line=ff6b81&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uumair327&bg_color=ffffff00&color=586e75&line=2aa198&point=6c71c4&area=true&hide_border=true" width="95%" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## Visitors Count  
+> ✔ Fixed — reliable counter (previous glitch.me broken)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=uumair327&label=Visitors&color=0A66C2&style=flat-square"/>
+</div>
+
+---
+
 <p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=uumair327&theme=onedark&row=2&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=uumair327&theme=onedark&row=2&column=7" width="99%"/>
 </p>
 
----
-
-# 👀 Visitor Count  
-> 🔧 *Fixed and reliable — does not break like glitch.me counters*
-
-<img src="https://komarev.com/ghpvc/?username=uumair327&style=for-the-badge&color=blue"/>
-
----
-
-# ☕ Support My Work
+## Support
 <a href="https://www.buymeacoffee.com/uumair327">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
 </a>
