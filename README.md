@@ -17,7 +17,9 @@
   - Email: [uumair327@gmail.com](mailto:uumair327@gmail.com)
   - Linktree: [linktr.ee/uumair327](https://linktr.ee/uumair327)
   
-    
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+</p>   
 <div align="center"> 
 
   ### 💪Skills
@@ -51,7 +53,9 @@
   <br>
 
 <h2>Social Info :</h2>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+</p>
 <div id="badges">
     <a href="https://www.linkedin.com/in/uumair327/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -63,6 +67,9 @@
 
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 ## Github Stats:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+</p>
 </div>
 <p align="center">
 <span style="
