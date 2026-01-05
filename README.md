@@ -26,7 +26,7 @@
 
 </p>
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Blue Rain Divider" width="100%" height= "20px" />
 </p>
 
 <!-- Blue Divider -->
@@ -68,7 +68,7 @@
 
 <h2>Social Info :</h2>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Blue Rain Divider" width="100%" height= "20px" />
 </p>
 <div id="badges">
     <a href="https://www.linkedin.com/in/uumair327/">
@@ -82,7 +82,7 @@
 <!--![Umair's github stats](https://github-readme-stats.vercel.app/api?username=uumair327&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)-->
 ## Github Stats:
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Blue Rain Divider" width="100%" height= "20px" />
 </p>
 </div>
 <p align="center">
@@ -154,7 +154,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=uumair327&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Blue Rain Divider" width="100%" height= "20px" />
 </p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/uumair327"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Umair" /></a></p><br><br>
