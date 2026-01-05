@@ -20,8 +20,8 @@
   <a href="mailto:uumair327@gmail.com">
     <img src="https://img.shields.io/badge/📧%20uumair327@gmail.com-ED254E?style=for-the-badge" />
   </a>
-   <a href="mailto:https://linktr.ee/uumair327">
-    <img src="https://img.shields.io/badge/📧%20linktr.ee/uumair327-ED254E?style=for-the-badge" />
+  <a href="https://linktr.ee/uumair327" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🔗%20linktr.ee/uumair327-ED254E?style=for-the-badge" />
   </a>
 
 </p>
