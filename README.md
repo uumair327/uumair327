@@ -27,7 +27,13 @@
 </p>
  <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Rain Divider" width="100%" height= "20px" />
-</p>   
+</p>
+
+<!-- Blue Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=3&section=header" width="100%" />
+</p>
+
 <div align="center"> 
 
   ### 💪Skills
